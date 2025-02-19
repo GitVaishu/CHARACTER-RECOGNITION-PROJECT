@@ -72,8 +72,8 @@ Ensure you submit the following files:
 - `recognizer.cpp`: Implements the `recognize()` method and other required functions.
 
 ## Author
-Vaishnavi Pandule
-Anushka Shivade 
-Sanika Joshi
+-Vaishnavi Pandule
+-Anushka Shivade 
+-Sanika Joshi
 
 
